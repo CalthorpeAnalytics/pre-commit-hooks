@@ -28,7 +28,7 @@ setup(
         'flake8==3.5.0',
         'autopep8==1.3.5',
         'pycodestyle==2.3.1',
-        'pyyaml==3.12',
+        'pyyaml==3.13',
         'six==1.11.0',
     ],
     entry_points={
